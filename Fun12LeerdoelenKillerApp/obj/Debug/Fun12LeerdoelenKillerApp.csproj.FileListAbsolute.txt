@@ -1,0 +1,14 @@
+c:\users\oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\bin\Debug\Fun12LeerdoelenKillerApp.exe.config
+c:\users\oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\bin\Debug\Fun12LeerdoelenKillerApp.exe
+c:\users\oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\bin\Debug\Fun12LeerdoelenKillerApp.pdb
+c:\users\oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\obj\Debug\Fun12LeerdoelenKillerApp.csprojResolveAssemblyReference.cache
+c:\users\oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\obj\Debug\Fun12LeerdoelenKillerApp.Properties.Resources.resources
+c:\users\oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\obj\Debug\Fun12LeerdoelenKillerApp.csproj.GenerateResource.Cache
+c:\users\oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\obj\Debug\Fun12LeerdoelenKillerApp.csproj.CoreCompileInputs.cache
+c:\users\oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\obj\Debug\Fun12LeerdoelenKillerApp.exe
+c:\users\oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\obj\Debug\Fun12LeerdoelenKillerApp.pdb
+c:\users\oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\obj\Debug\Fun12LeerdoelenKillerApp.FrmMain.resources
+C:\Users\Oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\obj\Debug\Fun12LeerdoelenKillerApp.AddPassword.resources
+C:\Users\Oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\obj\Debug\Fun12LeerdoelenKillerApp.FrmLogin.resources
+C:\Users\Oussama\source\repos\Fun12LeerdoelenKillerApp\Fun12LeerdoelenKillerApp\obj\Debug\Fun12LeerdoelenKillerApp.FrmRegister.resources
